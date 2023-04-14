@@ -1,0 +1,22 @@
+dateModified: 1681441961
+email:
+  fromEmail: hunterwilliams623@gmail.com
+  fromName: boilerplate-craft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3748fd0a-fb47-48e7-a447-2527c04e3801: boilerplate-craft # boilerplate-craft
+    4433e592-e8b0-4bca-ab05-b395935e5a1c: Common # Common
+    01256618-d768-41c4-9c82-d847010fc1b5: boilerplate-craft # boilerplate-craft
+system:
+  edition: solo
+  live: true
+  name: boilerplate-craft
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
